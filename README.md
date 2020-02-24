@@ -1,3 +1,5 @@
+YAML lint status - ![yamllint status](https://concourse.netinfra.c.eu-de-1.cloud.sap/api/v1/teams/playground/pipelines/webhook/badge)
+
 # Concourse webhook
 Generate a string of characters that can be used to authenticate the webhook eg `asldfjhsadlkjh`
 - GitHub
